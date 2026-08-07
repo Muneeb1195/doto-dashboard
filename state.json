@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T01:19:36.378357",
+  "updated": "2026-08-08T01:20:47.315467",
   "health": {
     "connected": true,
     "server": "DOTOGlobal-Real"
@@ -11,43 +11,43 @@
     "BTCUSD.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
-      "regime_gate": 330,
+      "regime_gate": 335,
       "ml_gate": 0,
       "sanity": 0
     },
     "US30.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
-      "regime_gate": 330,
+      "regime_gate": 335,
       "ml_gate": 0,
       "sanity": 0
     },
     "GBPJPY.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
-      "regime_gate": 330,
+      "regime_gate": 335,
       "ml_gate": 0,
       "sanity": 0
     },
     "SOLUSD.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
-      "regime_gate": 330,
+      "regime_gate": 335,
       "ml_gate": 0,
       "sanity": 0
     },
     "XRPUSD.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
       "regime_gate": 0,
       "ml_gate": 0,
@@ -56,7 +56,7 @@
     "EURUSD.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 83,
+      "no_signal": 88,
       "signals": 247,
       "regime_gate": 0,
       "ml_gate": 247,
@@ -65,18 +65,18 @@
     "US500.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
-      "regime_gate": 330,
+      "regime_gate": 335,
       "ml_gate": 0,
       "sanity": 0
     },
     "XAUUSD.raw": {
       "htf_trend": 0,
       "tail_risk": 0,
-      "no_signal": 330,
+      "no_signal": 335,
       "signals": 0,
-      "regime_gate": 330,
+      "regime_gate": 335,
       "ml_gate": 0,
       "sanity": 0
     }
